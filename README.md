@@ -2,7 +2,7 @@
 
 Aspiring Web Developer | Learning HTML & CSS
 
- About Me
+ 
 I'm a beginner web developer building my skills step by step.
 I'm currently learning how to create and style web pages.
 
