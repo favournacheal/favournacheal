@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi, I'm Favour Nacheal 
 
-<!--
-**favournacheal/favournacheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Web Developer** | Learning HTML & CSS
 
-Here are some ideas to get you started:
+ About Me
+I'm a beginner web developer building my skills step by step.
+I'm currently learning how to create and style web pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I'm Learning
+- HTML
+- CSS
+
+ Projects
+Day 1 Practice: my first web page, styled with an external CSS stylesheet
+
+
+ Goal
+To grow into a professional web developer and build real projects.
