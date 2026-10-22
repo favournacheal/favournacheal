@@ -20,10 +20,10 @@ I'm continuously growing my frontend and backend development skills, with a focu
 I enjoy applying my knowledge through practical projects and continuously improving my development skills.
 
 Project 
-  Personal Bio Website | A personal webpage built to present information about me using HTML and CSS. |
-  Student Registration Form | A form interface for collecting and organizing student information. |
- Student Records Table | An HTML table for presenting student records in a structured format. |
- CSS Practice Projects | Practical exercises focused on styling, layout, and improving webpage presentation. |
+  Personal Bio Website | A personal webpage built to present information about me using HTML and CSS. 
+  Student Registration Form | A form interface for collecting and organizing student information. 
+ Student Records Table | An HTML table for presenting student records in a structured format. 
+ CSS Practice Projects | Practical exercises focused on styling, layout, and improving webpage presentation. 
 
 Explore my repositories to see my work and development journey.
 
@@ -31,7 +31,7 @@ Explore my repositories to see my work and development journey.
 I'm open to connecting with developers, collaborating on projects, and learning from the tech community.
 
 
-Thanks for visiting my profile!** Feel free to explore my repositories and connect with me as I continue building my journey in web development.
+Thanks for visiting my profile.Feel free to explore my repositories and connect with me as I continue building my journey in web development.
 
  
 
